@@ -1,0 +1,91 @@
+"Response time (s)","method"," "
+1.17,PROFS,Simulation
+0.91,PROFS,Simulation
+0.84,PROFS,Simulation
+0.77,PROFS,Simulation
+0.72,PROFS,Simulation
+1.3,PROFS,Simulation
+1.05,PROFS,Simulation
+0.88,PROFS,Simulation
+0.83,PROFS,Simulation
+0.8,PROFS,Simulation
+1.58,PROFS,Simulation
+1.41,PROFS,Simulation
+1.3,PROFS,Simulation
+1.24,PROFS,Simulation
+1.21,PROFS,Simulation
+1.17,BI,Simulation
+1,BI,Simulation
+0.93,BI,Simulation
+0.94,BI,Simulation
+0.92,BI,Simulation
+1.3,BI,Simulation
+1.17,BI,Simulation
+1.08,BI,Simulation
+1.03,BI,Simulation
+0.99,BI,Simulation
+1.58,BI,Simulation
+1.51,BI,Simulation
+1.43,BI,Simulation
+1.37,BI,Simulation
+1.35,BI,Simulation
+1.17,RAP,Simulation
+1.18,RAP,Simulation
+1.19,RAP,Simulation
+1.16,RAP,Simulation
+1.18,RAP,Simulation
+1.25,RAP,Simulation
+1.35,RAP,Simulation
+1.33,RAP,Simulation
+1.32,RAP,Simulation
+1.26,RAP,Simulation
+1.575,RAP,Simulation
+1.585,RAP,Simulation
+1.59,RAP,Simulation
+1.575,RAP,Simulation
+1.585,RAP,Simulation
+1.27,PROFS,Real testbed
+1.19,PROFS,Real testbed
+1.36,PROFS,Real testbed
+1.19,PROFS,Real testbed
+1.52,PROFS,Real testbed
+1.55,PROFS,Real testbed
+1.57,PROFS,Real testbed
+1.62,PROFS,Real testbed
+1.66,PROFS,Real testbed
+1.68,PROFS,Real testbed
+1.79,PROFS,Real testbed
+1.89,PROFS,Real testbed
+1.89,PROFS,Real testbed
+1.89,PROFS,Real testbed
+1.89,PROFS,Real testbed
+1.27,BI,Real testbed
+1.34,BI,Real testbed
+1.42,BI,Real testbed
+1.52,BI,Real testbed
+1.51,BI,Real testbed
+1.55,BI,Real testbed
+1.68,BI,Real testbed
+1.77,BI,Real testbed
+1.76,BI,Real testbed
+1.68,BI,Real testbed
+1.79,BI,Real testbed
+1.96,BI,Real testbed
+1.97,BI,Real testbed
+1.99,BI,Real testbed
+1.99,BI,Real testbed
+1.57,RAP,Real testbed
+1.52,RAP,Real testbed
+1.59,RAP,Real testbed
+1.59,RAP,Real testbed
+1.52,RAP,Real testbed
+1.55,RAP,Real testbed
+2.76,RAP,Real testbed
+2.16,RAP,Real testbed
+2.16,RAP,Real testbed
+2.56,RAP,Real testbed
+1.79,RAP,Real testbed
+2.8,RAP,Real testbed
+2.8,RAP,Real testbed
+2.8,RAP,Real testbed
+2.85,RAP,Real testbed

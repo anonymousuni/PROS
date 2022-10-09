@@ -1,0 +1,91 @@
+"Success rate","method"," "
+0.68,PROFS,Simulation
+0.75,PROFS,Simulation
+0.82,PROFS,Simulation
+0.85,PROFS,Simulation
+0.86,PROFS,Simulation
+0.71,PROFS,Simulation
+0.78,PROFS,Simulation
+0.85,PROFS,Simulation
+0.91,PROFS,Simulation
+0.93,PROFS,Simulation
+0.51,PROFS,Simulation
+0.56,PROFS,Simulation
+0.6,PROFS,Simulation
+0.66,PROFS,Simulation
+0.72,PROFS,Simulation
+0.68,BI,Simulation
+0.72,BI,Simulation
+0.74,BI,Simulation
+0.74,BI,Simulation
+0.76,BI,Simulation
+0.71,BI,Simulation
+0.73,BI,Simulation
+0.75,BI,Simulation
+0.76,BI,Simulation
+0.77,BI,Simulation
+0.51,BI,Simulation
+0.55,BI,Simulation
+0.57,BI,Simulation
+0.62,BI,Simulation
+0.64,BI,Simulation
+0.685,RAP,Simulation
+0.675,RAP,Simulation
+0.673,RAP,Simulation
+0.667,RAP,Simulation
+0.67,RAP,Simulation
+0.70,RAP,Simulation
+0.71,RAP,Simulation
+0.72,RAP,Simulation
+0.68,RAP,Simulation
+0.7,RAP,Simulation
+0.51,RAP,Simulation
+0.5,RAP,Simulation
+0.52,RAP,Simulation
+0.53,RAP,Simulation
+0.52,RAP,Simulation
+0.93,PROFS,Real testbed
+0.93,PROFS,Real testbed
+0.93,PROFS,Real testbed
+0.93,PROFS,Real testbed
+0.93,PROFS,Real testbed
+0.96,PROFS,Real testbed
+0.96,PROFS,Real testbed
+0.96,PROFS,Real testbed
+0.96,PROFS,Real testbed
+0.96,PROFS,Real testbed
+0.95,PROFS,Real testbed
+0.95,PROFS,Real testbed
+0.95,PROFS,Real testbed
+0.95,PROFS,Real testbed
+0.95,PROFS,Real testbed
+0.89,BI,Real testbed
+0.89,BI,Real testbed
+0.89,BI,Real testbed
+0.89,BI,Real testbed
+0.89,BI,Real testbed
+0.89,BI,Real testbed
+0.85,BI,Real testbed
+0.85,BI,Real testbed
+0.85,BI,Real testbed
+0.85,BI,Real testbed
+0.85,BI,Real testbed
+0.89,BI,Real testbed
+0.89,BI,Real testbed
+0.89,BI,Real testbed
+0.89,BI,Real testbed
+0.87,RAP,Real testbed
+0.87,RAP,Real testbed
+0.87,RAP,Real testbed
+0.87,RAP,Real testbed
+0.87,RAP,Real testbed
+0.83,RAP,Real testbed
+0.83,RAP,Real testbed
+0.83,RAP,Real testbed
+0.83,RAP,Real testbed
+0.83,RAP,Real testbed
+0.65,RAP,Real testbed
+0.65,RAP,Real testbed
+0.65,RAP,Real testbed
+0.65,RAP,Real testbed
+0.65,RAP,Real testbed

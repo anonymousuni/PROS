@@ -78,6 +78,7 @@ def main():
     command_dep_encod = str.encode(os.popen("kubectl apply -f ~/Documents/0encoding/00encoding-deployment.yaml").read())
     command_dep_fram  = str.encode(os.popen("kubectl apply -f ~/Documents/1framing/11framing-deployment.yaml").read())
     command_dep_train = str.encode(os.popen("kubectl apply -f ~/Documents/3training/33training-deployment.yaml").read())
+    command_dep_flask = str.encode(os.popen("kubectl apply -f PROS/SKS/code/FlaskWebApp-on-K8s/deployment.yaml").read()) 
     for event in w.stream(v1.list_namespaced_pod, "default"):
         if event['object'].status.phase == "Pending" and event['object'].spec.scheduler_name == scheduler_name:
             try:

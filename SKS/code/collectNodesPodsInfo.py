@@ -6,6 +6,9 @@ import subprocess as commands
 import json
 import sys
 import time
+from prometheus_api_client import PrometheusConnect
+
+prom = PrometheusConnect()
 
 #tup = commands.getstatusoutput("docker run sina88/ubuntu-encoding:amd64")
 #splittt = str(tup[1]).splitlines()

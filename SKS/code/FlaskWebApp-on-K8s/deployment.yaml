@@ -11,6 +11,7 @@ spec:
       labels:
         app: flask-k8s
     spec:
+      schedulerName: pros
       containers:
         - name: flask-k8s
           image: sina88/webserv:latest

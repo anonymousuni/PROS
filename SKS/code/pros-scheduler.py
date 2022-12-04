@@ -35,7 +35,7 @@ def choice(nodes):
     resources = nodes
     resources_str = "["+(" ".join(str(x) for x in resources)).replace(" ", ",") + "]"
     tasks_str = "["+(" ".join(str(x) for x in tasks)).replace(" ", ",") + "]"
-    command = str.encode(os.popen("python3.9 ranking_levelized.py "+tasks_str+" "+ resources_str).read())
+    command = str.encode(os.popen("python3.9 PROS/Model-implementation/App_placement.py").read())
     output = command.decode()
     candidates_nodes = ((("["+(output).replace("\n",",")+"]")).strip("][").split(","))[0:len(tasks)]
     #print (candidates_nodes)
